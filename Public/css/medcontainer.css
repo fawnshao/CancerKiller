@@ -1,0 +1,40 @@
+#Container{
+    margin:0 auto;/*设置整个容器在浏览器中水平居中*/
+   /* background:#CF3;*/
+}
+#Header{
+    height:30px;
+   /* background:#093;*/
+    font-family:arial, helvetica, sans-serif;
+    color:#666666;
+    font-size:32px;
+    text-align:center;
+}
+#logo{
+    padding-left:50px;
+    padding-top:20px;
+    padding-bottom:50px;
+}
+
+#C-Left{
+    height:400px;
+    margin-left:80px;/*设置元素跟其他元素的距离为20像素*/
+     margin-top:40px;
+    float:left;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+   /* background:#90C;*/
+}
+#C-Main{
+    width:820px;
+    margin:20px;/*设置元素跟其他元素的距离为20像素*/
+    float:left;/*设置浮动，实现多列效果，div+Css布局中很重要的*/
+
+}
+/*注：Content-Left和Content-Main元素是Content元素的子元素，两个元素使用了float:left;设置成两列，这个两个元素的宽度和这个两个元素设置的padding、margin的和一定不能大于父层Content元素的宽度，否则设置列将失败*/
+#Footer{
+    height:40px;
+   /* background:#90C;*/
+    margin-top:20px;
+}
+.Clear{
+    clear:both;
+}

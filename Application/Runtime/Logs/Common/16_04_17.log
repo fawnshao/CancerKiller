@@ -1,0 +1,12 @@
+[ 2016-04-17T09:06:00+08:00 ] 58.193.176.90 /CancerKiller/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-17T09:06:07+08:00 ] 58.193.176.90 /CancerKiller/index.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+ERR: 无法加载模块:Index
+

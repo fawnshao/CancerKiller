@@ -1,0 +1,41 @@
+a { color: #5555FF; text-decoration: none; }
+a:visited { color: #5555FF; }
+a:focus { outline: thin dotted; }
+
+
+  body {
+	font-family:microsoft yahei;
+  }
+  .holder {
+    margin: 15px 0;
+	text-align:center;
+  }
+  .holder a {
+    font-size: 12px;
+    cursor: pointer;
+    margin: 0 5px;
+    color: #5555FF;
+	padding:2px 5px;
+  }
+  .holder a:hover {
+    background-color: #eee;
+    color: #FF2D2D;
+  }
+  .holder a.jp-previous { margin-right: 15px; }
+  .holder a.jp-next { margin-left: 15px; }
+  .holder a.jp-current, a.jp-current:hover {
+    color: #FF2D2D;
+    font-weight: bold;
+  }
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    color: #eee;
+  }
+  .holder a.jp-current, a.jp-current:hover,
+  .holder a.jp-disabled, a.jp-disabled:hover {
+    cursor: default;
+    background: none;
+  }
+  .holder span { margin: 0 5px; }
+  div#content {
+  	width: 700px;
+  }

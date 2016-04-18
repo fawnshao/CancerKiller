@@ -1,0 +1,135 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link href="/CancerKiller/Public/css/newsstyle.css" rel="stylesheet" type="text/css">
+<link  rel="stylesheet" href="/CancerKiller/Public/css/demo.css" media="screen"/>
+<script src="/CancerKiller/Public/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="/CancerKiller/Public/js/guide.js" type="text/javascript"></script>
+<title>Cancer Killer</title>
+ <link rel = "Shortcut Icon" href="/CancerKiller/Public/images/logo.ico"/>
+</head>
+<body style="position:relative">
+<div class="head-v3">
+	<div class="navigation-up">
+		<div class="navigation-inner">
+		<div class="navigation-v2">
+          <font style="/*font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;*/font-family:'Monotype Corsiva'; font-size:45px;color: #fff; font-weight:bold;text-shadow:0 0 5px #CCCCCC, 0 0 10px #CCCCCC, 0 0 15px #CCCCCC">Cancer killer</font>
+		  </div>
+			<div class="navigation-v3">	
+				<ul>
+					<li class="" _t_nav="home">
+						<h2>
+							<a href="/CancerKiller/Home/">首页</a>
+						</h2>
+					</li>
+					<li class=""  _t_nav="browse">
+						<h2>
+							<a href="/CancerKiller/index.php/Home/News/../Cancer/index" >&nbsp;&nbsp;癌&nbsp;症&nbsp;&nbsp;</a>
+						</h2>
+					</li>
+					
+					<li class="" _t_nav="medicine">
+						<h2>
+							<a href="/CancerKiller/Home/Medicine/medicineQuery" target="_blank">&nbsp;&nbsp;药&nbsp;物&nbsp;&nbsp;</a>
+						</h2>
+					</li>
+				   <li class=""  _t_nav="gene">
+						<h2>
+							<a href="/CancerKiller/Home/Gene/index" >&nbsp;&nbsp;基&nbsp;因&nbsp;&nbsp;</a>
+						</h2>
+					</li>
+					<li class="" _t_nav="login"> 
+						<h2>
+							<a href="/CancerKiller/Home/Login/login" target="_blank">登录注册</a>
+						</h2>
+					</li>
+					<li _t_nav="us">
+						<h2>
+							<a href="/CancerKiller/Home/Member/member">关于网站</a>
+						</h2>
+					</li>
+				</ul>
+			</div>
+		</div>
+   </div>
+</div>
+
+
+<br></br>
+<header>
+    <div class="clearfloat"></div>
+</header>
+<div class="wrapper">
+	<div class="contentBody">
+    	<div class="post">
+    	&nbsp;&nbsp;&nbsp;<img src="/CancerKiller/Public/images/newsmore1.png" alt="pic1">
+            <h3>Nature最新发现：乙肝病毒的绝地反击！</h3>
+            <p>
+            	导读：近期，瑞士日内瓦大学医学院(UNIGE)的研究团队在Nature期刊发表了关于乙型肝炎病毒的最新研究，揭示了细胞如何抵御HBV感染，而病毒又如何进行反击的机理。这一最新研究加深了对HBV的认知，有望给创新药物的研发提供新靶点。
+            </p>
+            <p class="button"><a href="http://www.biodiscover.com/news/research/173760.html" target="_blank">阅读全文</a></p>
+        </div>
+        <div class="post">
+            <h3>Nature子刊：创新纳米药物，3大步"直击"转移性肿瘤细胞</h3>
+            <p>
+            	导读：传统癌症治疗方案是手术结合放化疗。对于大多数癌症患者而言，除了化疗的痛苦之外，承受最大的风险则是癌细胞转移。近期，来自于美国休斯敦卫理公会研究所的研究团队研发出一种新方法，能够将抗癌药物直接靶向转移的癌细胞。 
+            </p>
+            <p class="button"><a href="http://www.biodiscover.com/news/research/173678.html" target="_blank">阅读全文</a></p>
+        </div>
+        <div class="post">
+            <h3>Cell公布10种乳腺癌药物新用途</h3>
+            <p>
+            	导读：对乳腺癌细胞功能进行的一次迄今为止最大规模的分析调查，指出了数十个现有药物的新用途，一些药物发现新靶点及新的药物组合，相关结果于2016年1月14日发表在《Cell》杂志上。 
+            </p>
+            <p class="button"><a href="http://www.biodiscover.com/news/research/173760.html" target="_blank">阅读全文</a></p>
+        </div>
+                <div class="post">
+            <h3>Cancer Cell:科学家发现能抑制多种肿瘤的酶抑制剂</h3>
+            <p>
+            	导读：2016年3月25日 讯 /生物谷BIOON/ --研究人员最近研发了一种酶抑制剂，显示对多种肿瘤有效，尤其是白血病，乳腺癌和大肠癌。他们的研究重心是c-Myc肿瘤蛋白，它在将近一半的人类肿瘤中表达增强，以及SIRT2--对多种癌症细胞的活力起关键作用的酶。研究人员用一种称为TM的化合物，能在乳腺癌小鼠模型中抑制SIRT2活性，降低c-Myc蛋白水平，抑制肿瘤生长。
+            </p>
+            <p class="button"><a href="http://news.bioon.com/article/6680513.html" target="_blank">阅读全文</a></p>
+        </div>
+ 
+        <div class="clearfloat"></div>
+    </div>
+    <div class="sidebar">
+    	<div class="adsContainer">
+        	<h3>&nbsp;精准医疗</h3>
+        	<div style="font-family: 'microsoft yahei';font-size:15px;margin-left:27px;margin-right:20px;">
+      			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:underline;" target="_blank" href="http://baike.baidu.com/link?url=l8awMm4tJCwtI5gULiJlOKkO3XjbS2olX-nJFOPPahr6Bxp6-F3cPwA3BXXICXrsiqKWVq_T-8coCXidp5BfqAOSD9YwB-1VlAphvjO7m7ji2JJ9Gfu4OnkNwtHGkqAE"><font color="#000000">精准医疗（Precision Medicine）</font></a>是以个体化医疗为基础、
+				随着基因组测序技术快速进步以及生物信息与大数据科学的交叉应用而发展起来的新型医学概念与医疗模式。
+				其本质是通过基因组、蛋白质组等组学技术和医学前沿技术，对于大样本人群与特定疾病类型进行生物标记
+				物的分析与鉴定、验证与应用，从而精确寻找到疾病的原因和治疗的靶点，并对一种疾病不同状态和过程进
+				行精确分类，最终实现对于疾病和特定患者进行个性化精准治疗的目的，提高疾病诊治与预防的效益。
+
+             </div>
+            <div class="clearfloat"></div>
+		</div>
+    	<div class="sidebarBox">
+        	<h3>&nbsp;&nbsp;&nbsp;最 新 论 文</h3>
+            <ul>
+            	<li><a target="_blank" href="http://www.cell.com/cell/fulltext/S0092-8674(16)30215-X">Genomic and Transcriptomic Features of Response to Anti-PD-1 Therapy in Metastatic Melanoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/24</a></li>
+                <li><a target="_blank" href="http://www.nature.com/nature/journal/v531/n7595/full/nature17161.html">Melanoma addiction to the long non-coding RNA SAMMSON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/24</a></li>
+                <li><a target="_blank" href="http://www.nature.com/nature/journal/v531/n7595/full/nature16985.html">Visualization of immediate immune responses to pioneer metastatic cells in the lung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/16</a></li>
+                <li><a target="_blank" href="http://www.nature.com/nmat/journal/vaop/ncurrent/full/nmat4586.html">Directed migration of cancer cells guided by the gradedtexture of the underlyinng matrix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/14</a></li>
+                <li><a target="_blank" href="http://www.nature.com/nature/journal/v531/n7595/full/nature17157.html#affil-auth">Deletions linked to TP53 loss drive cancer through p53-independent mechanisms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/16</a></li>
+                <li><a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature17198.html">β-Arrestin biosensors reveal a rapid, receptor-dependent activation/deactivation cycle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/23</a></li>
+                <li><a target="_blank" href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3531.html">Genetic predisposition for beta cell fragility underlies type 1 and type 2 diabetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/21</a></li>
+                <li><a target="_blank" href="http://science.sciencemag.org/content/351/6280/aad6253">Design and synthesis of a minimal bacterial genome <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/25</a></li>
+                <li><a target="_blank" href="http://science.sciencemag.org/content/350/6264/1101">Genome-wide inactivation of porcine endogenous retroviruses (PERVs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/25</a></li>
+                <li><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0092867416302045">Programmable RNA Tracking in Live Cells with CRISPR/Cas9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/17</a></li>
+                <li><a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S153561081630037X">Inhibiting Drivers of Non-mutational Drug Tolerance Is a Salvage Strategy for Targeted Melanoma Therapy &nbsp; &nbsp;      &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016/03/17</a></li>
+                <li><a target="_blank" href="http://www.doc88.com/p-4724413296234.html">精准医疗的理念及其技术体系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/07/15</a></li>
+                <li><a target="_blank" href="http://xueshu.baidu.com/s?wd=paperuri%3A%28833df3240759e87c1d25459eaa5603d7%29&filter=sc_long_sign&sc_ks_para=q%3D%E8%BD%AC%E5%8C%96%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E4%B8%8E%E9%A3%8E%E6%B9%BF%E7%97%85%E7%9A%84%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8">转化生物信息学与风湿病的精准医疗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/10/10</a></li>
+                <li><a target="_blank" href="http://xueshu.baidu.com/s?wd=paperuri%3A%2804db50c49cbc196d3d62703d199616dd%29&filter=sc_long_sign&sc_ks_para=q%3D%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97%E6%97%B6%E4%BB%A3%E4%B8%8B%E9%9D%9E%E5%B0%8F%E7%BB%86%E8%83%9E%E8%82%BA%E7%99%8C%E7%A0%94%E7%A9%B6%E7%9A%84%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8">精准医疗时代下非小细胞肺癌研究的现状与展望&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015</a></li>
+                <li><a target="_blank" href="http://xueshu.baidu.com/s?wd=paperuri%3A%284e81f5fdaf55ea821078cddfab951306%29&filter=sc_long_sign&sc_ks_para=q%3D%E7%A5%9E%E7%BB%8F%E7%B3%BB%E7%BB%9F%E7%96%BE%E7%97%85%E4%B8%AD%E7%9A%84%E6%95%B4%E5%90%88%E5%BC%8F%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8">神经系统疾病中的整合式精准医疗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015</a></li>
+                <li><a target="_blank" herf="http://xueshu.baidu.com/s?wd=paperuri%3A%28146cb5662ac88c3d00e2db1f4da675cd%29&filter=sc_long_sign&sc_ks_para=q%3D%E8%B5%9B%E9%BB%98%E9%A3%9E%3A%E4%BB%A3%E8%B0%A2%E7%BB%84%E5%AD%A6%E5%8A%A9%E5%8A%9B%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97%E7%A0%94%E7%A9%B6%E5%8F%91%E5%B1%95&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8">赛默飞:代谢组学助力精准医疗研究发展&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015</a></li>
+                <li><br></br></li>
+            </ul>
+        </div>
+</div>
+</div>
+</body>
+</html>

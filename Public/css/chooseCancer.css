@@ -1,0 +1,107 @@
+@CHARSET "UTF-8";
+#main{margin:0 auto; text-align:center;}
+#main1{margin:0 auto;  text-align:center;}
+#main2{margin:0 auto;  text-align:center;}
+#content-left {width:40%;float:left;}
+#content-right {background-color:#EEEEEE;width:50%;float:left;}
+#choose-box-wrapper{
+		width:33%;
+		float:left;
+		margin-left:25px;
+		background-color:#000;
+		filter:alpha(opacity=50);
+		background-color: rgba(0, 0, 0, 0.5);
+		border-radius:5px;
+		display:none;
+	}
+
+	#choose-box{
+		border: 1px solid #005EAC;
+		background-color:white;
+	}
+	#choose-box-title{
+		background:#3777BC;
+		color: white;
+		padding: 4px 10px 5px;
+		font-size: 16px;
+		font-weight: 700;
+		margin: 0;
+	}
+	#choose-box-title span{
+		font-family: Tahoma, Verdana, STHeiTi, simsun, sans-serif;
+	}
+
+	#choose-a-cancer{
+		margin:5px 8px 10px 8px;
+		border: 1px solid #C3C3C3;
+	}
+    #choose-a-cancer2{
+		margin:5px 8px 10px 8px;
+		border: 1px solid #C3C3C3;
+	}
+	#choose-a-cancer a{
+		display:inline-block;
+		height: 18px;
+		line-height: 18px;
+		color:#005EAC;
+		text-decoration: none;
+		font-family:Microsoft Yahei;
+        font-size:17px;
+		margin:2px 5px;
+		padding: 2px;
+		text-align: center;
+	}
+	#choose-a-cancer a:hover{
+		text-decoration:underline;
+		cursor:pointer;
+	}
+	#choose-a-cancer .choosen{
+		background-color: #005EAC;
+		color:white;
+	}
+	
+	#choose-a-cancer2{
+		overflow-x: hidden;
+		overflow-y: auto;
+		height: 200px;
+	}
+	#choose-a-cancer2 a{
+		height: 18px;
+		line-height: 18px;
+		color:#005EAC;
+		text-decoration: none;
+		font-size: 13px;
+		font-family:Microsoft Yahei;
+		float: left;
+		width: 160px;
+		margin: 4px 12px;
+		padding-left:10px;
+	}
+	#choose-a-cancer2 a:hover{
+		background-color:#005EAC;
+		color:white;
+		cursor:pointer;
+	}
+	
+	#choose-box-bottom{
+		background: #F0F5F8;
+		padding: 8px;
+		text-align: right;
+		border-top: 1px solid #CCC;
+		height:40px;
+	}
+	#choose-box-bottom input{
+		vertical-align: middle;
+		text-align: center;
+		background-color:#005EAC;
+		color:white;
+		border-top: 1px solid #B8D4E8;
+		border-left: 1px solid #B8D4E8;
+		border-right: 1px solid #114680;
+		border-bottom: 1px solid #114680;
+		cursor: pointer;
+		width: 60px;
+		height: 25px;
+		margin-top: 6px;
+		margin-right: 6px;
+	}

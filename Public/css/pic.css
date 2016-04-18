@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+a {outline-style:none;color:#535353;text-decoration:none}
+a:hover { color: #EA0000; text-decoration:underline;}
+.button {display: inline-block;zoom: 1; *display: inline;vertical-align: baseline;margin: 0 2px;outline: none;cursor: pointer;text-align: center;text-decoration: none;font: 14px/100% Arial, Helvetica, sans-serif;padding:0.25em 0.6em 0.3em;text-shadow: 0 1px 1px rgba(0,0,0,.3);-webkit-border-radius: .5em; -moz-border-radius: .5em;border-radius: .5em;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.red {color: #faddde;border: solid 1px #980c10;background: #d81b21;background: -webkit-gradient(linear, left top, left bottom, from(#ed1c24), to(#A51715));background: -moz-linear-gradient(top,  #ed1c24,  #A51715);filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ed1c24', endColorstr='#aa1317');
+}
+.red:hover { background: #b61318; background: -webkit-gradient(linear, left top, left bottom, from(#c9151b), to(#a11115)); background: -moz-linear-gradient(top,  #c9151b,  #a11115); filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#c9151b', endColorstr='#a11115'); color:#fff;}
+.red:active {color: #de898c;background: -webkit-gradient(linear, left top, left bottom, from(#aa1317), to(#ed1c24));background: -moz-linear-gradient(top,  #aa1317,  #ed1c24);filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#aa1317', endColorstr='#ed1c24');}
+.cor_bs,.cor_bs:hover{color:#ffffff;}
+
+.mapBox { height: 370px; width: 810px; position: relative; margin:0 auto }
+.mapcon { width: 450px; position: absolute; left: 121px; top: 118px; display: none; }
+.mapcon1{ z-index: 1; left: 446px; top: 265px; }
+.mapcon2{ z-index: 1; left: 460px; top: 390px; }
+.mapcon3{ z-index: 1; left: 460px; top: 500px; }
+.mapcon4{ z-index: 1; left: 460px; top: 600px; }
+.mapcon5{ z-index: 1; left: 460px; top: 750px; }
+.mapcon6{ z-index: 1; left: 340px; top: 440px; }
+.mapcon7{ z-index: 1; left: 560px; top: 440px; }
+.map_bgBox { height: 8px; width: 450px; overflow: hidden; }
+.map_Txt {background-color:rgba(131,175,255,0.6);min-height:50px; _height: 50px; }
+.map_Txt a:hover { color: #EA0000; text-decoration:underline;}
+.imgIco { position: absolute; top: -45px; right: 30px; z-index: 3; }
+.map_name { font: bold 20px/52px "微软雅黑"; color: #FFF; height: 52px; padding-left: 22px; }
+.map_itm { font-family:"微软雅黑";font-size:16px;padding: 0px 10px 32px 22px; }
+.map_itm a {font-family:"微软雅黑"; line-height: 26px; white-space: nowrap; margin: 0px 10px 0px 5px; }
+.map_name span { font-weight: normal; }

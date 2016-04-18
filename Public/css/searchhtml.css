@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+#header {margin-left:28px;float:left;height:75px;width:80%;}
+#content-left {/*background-color:#ffff99;*/width:51%;float:left;margin-left:35px;height:430px;}
+#content-right {/*background-color:#EEEEEE;*/height:200px;width:30%;float:left;margin-left:150px;}
+
+#footer {clear:both;text-align:center;width:60%}  
+h1{font-size:28px;font-family:"microsoft yahei";color:#5555FF;}
+h3{font-size:16px;font-family:"microsoft yahei";}
+h4{font-size:14px;font-family:"microsoft yahei";}

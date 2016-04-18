@@ -1,0 +1,157 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+ h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+	color: #0072a8;
+}
+h3 {
+	font-size: 30px;
+}
+p, ul, ol {
+	margin-top: 0;
+	line-height: 150%;
+	font-family: 'microsoft yahei';
+	font-size:16px;
+}
+a {
+	text-decoration: none;
+	color:#2828FF;
+}
+a:hover {
+}
+.container {
+	width: 1000px;
+	margin: 0px auto;
+}
+/* Page */
+#page {
+	width: 900px;
+	margin: 0 auto;
+	padding: 7px 7px;
+}
+/* Content */
+#content {
+	float: left;
+	width: 590px;
+	padding: 35px 0px 0px 0px;
+}
+.post {
+	overflow: hidden;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #E7EBED;
+}
+.post .title {
+	height: 28px;	
+}
+.post .title a {
+	border: none;
+	text-transform: lowercase;
+	font-family: 'microsoft yahei';
+	color: #3f88df;
+}
+.post .entry {
+	padding: 15px 0px 10px 0px;
+	padding-bottom: 4px;
+	text-align: justify;
+}
+.post .entry a {
+	border: none;
+}
+.post .entry a:hover {
+	text-decoration: underline;
+}
+.links {
+	padding-top: 20px;
+	margin-bottom: 30px;
+}
+.more {
+	display: block;
+	float: left;
+	width: 88px;
+	height: 25px;
+	padding: 2px 0px 0px 0px;
+	margin-right: 10px;
+	text-align: center;
+}
+.comments {
+	display: block;
+	float: left;
+	width: 88px;
+	height: 25px;
+	padding: 2px 0px 0px 0px;
+	text-align: center;
+}
+/* Sidebar */
+#sidebar {
+	float: right;
+	width: 280px;
+	margin: 0px;
+	padding: 10px 0px 0px 0px;
+}
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#sidebar li {
+	margin: 0;
+	padding: 0;
+}
+#sidebar li ul {
+	margin: 0px 0px;
+	padding-bottom: 20px;
+}
+#sidebar li li {
+	line-height: 30px;
+	border-bottom: 1px solid #E7EBED;
+	margin: 0px 30px;
+	border-left: none;
+}
+#sidebar li li span {
+	display: block;
+	margin-top: -20px;
+	padding: 0;
+	font-size: 11px;
+	font-style: italic;
+}
+#sidebar li li a {
+	padding: 0px 0px 0px 5px;
+}
+#sidebar h3 {
+	height: 18px;
+	padding-left: 28px;
+	letter-spacing: -.5px;
+	font-size: 1.8em;
+	color: #0072a8;
+}
+#sidebar p {
+	margin: 0 0px;
+	padding: 0px 30px 20px 30px;
+	text-align: justify;
+}
+#sidebar a {
+	border: none;
+}
+#sidebar a:hover {
+	text-decoration: underline;
+}
+#footer{
+	background-color:#6495ED;
+	height:120px;
+	text-align:center;
+	font-size:16px;
+	color:#F0F0F0;
+	font-family:'Microsoft YaHei';
+}
+#footer a {
+	border: none;
+	color:#F0F0F0;
+}
+#footer a:hover {
+	text-decoration: underline;
+	color:	#FF2D2D;
+}

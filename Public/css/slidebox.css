@@ -1,0 +1,22 @@
+﻿
+
+.slideBox{ text-align:center;width:840px; height:360px; position:relative; *z-index:0; margin:0 auto;}
+.slideBox .hd{ height:30px; position:absolute; bottom:0px; }
+.slideBox .hd ul{text-align:center; }
+.slideBox .hd ul li{ float:left; background-color:#fff; border-left:1px solid #d5d5d5;border-bottom:1px solid #d5d5d5; display:block; width:167px; height:30px; line-height:30px; }
+.slideBox .hd ul li a{ padding-left:5px; display:block; width:167px; _width:166px; height:30px; line-height:30px; position:relative; color:#666; font-family:"微软雅黑"; }
+.slideBox .hd ul li a img{ display:none; position:absolute; top:-7px; left:0px;}
+.slideBox .hd ul li.on{ }
+.slideBox .hd ul li.on a img{ display:block;}
+.slideBox .bd{ position:relative; height:100%; z-index:0;   }
+.slideBox .bd ul li{ position:relative;}
+.slideBox .bd img{ width:840px; height:330px; }
+.burder_content{ position:absolute; top:0; right:0px; height:300px; width:300px; padding-left:30px; padding-top:30px; background-color:#000;filter:alpha(opacity=85); -moz-opacity:0.85; -khtml-opacity: 0.85; opacity: 0.85; }
+.burder_content .burder_content_type{ float:left; display:block; font-size:14px; line-height:23px; text-align:center; height:23px; width:105px; font-weight:bold; color:#fff; background-color:#ff7800;}
+.burder_content .burder_content_title{ float:left; font-size:30px; line-height:35px; color:#fff; width:270px; font-weight:bold; margin-top:10px; cursor:pointer; font-family:"微软雅黑"; font-weight:lighter;}
+.burder_content .burder_content_title:hover{ color:#ff5c00;}
+.burder_content .burder_content_content{ float:left; line-height:25px; color:#fff; font-size:12px; width:270px; margin-top:10px;}
+.burder_content .burder_content_lookall{ float:left; color:#ff5c00; font-weight:bold; margin-top:10px;_width:120px;}
+.burder_content .burder_content_lookall:hover{ text-decoration:underline; color:#ff5c00;}
+.burder_content .burder_content_lookmore{  float:right;margin-right:10px; margin-bottom:0px;color:#ff5c00; font-weight:bold; margin-top:10px;_width:120px;}
+.burder_content .burder_content_lookmore:hover{ text-decoration:underline; color:#ff5c00;}
